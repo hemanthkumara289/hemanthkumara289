@@ -64,7 +64,7 @@
 
 📧 Email: **hemanthkumara289@gmail.com**
 
-💼 LinkedIn: **(https://www.linkedin.com/in/hemanth-kumara-r-a2b1222b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
+💼 LinkedIn: *(https://www.linkedin.com/in/hemanth-kumara-r-a2b1222b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 
 ---
 
