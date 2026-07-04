@@ -1,16 +1,80 @@
-## Hi there 👋
+# Hi there 👋, I'm Hemanth Kumara R
 
-<!--
-**hemanthkumara289/hemanthkumara289** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Engineering Student at Bangalore Institute of Technology, Bengaluru.
 
-Here are some ideas to get you started:
+💻 Passionate about Backend Development, Python, AI, and building practical software projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🌱 Currently learning **FastAPI, PostgreSQL, SQLAlchemy, Docker, and CI/CD**
+- 💡 Interested in **Backend Development, Artificial Intelligence, and Automation**
+- 🔨 Building projects to strengthen my software engineering skills
+- 🎯 Goal: Become a Backend Software Engineer
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- Java
+- C
+- SQL
+
+### Backend
+- FastAPI
+- Flask
+
+### Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+
+### Tools
+- Git
+- GitHub
+- VS Code
+- Selenium
+- Postman
+
+---
+
+## 📌 Current Projects
+
+- 🔎 SearchScrape
+- 🚨 Fraud Detection REST API
+- 🌱 Crop Leaf Disease Detection (Team Project)
+
+---
+
+## 📚 Currently Learning
+
+- FastAPI
+- SQLAlchemy
+- Docker
+- REST API Design
+- CI/CD
+- Software Engineering Best Practices
+
+---
+
+## 📈 GitHub Stats
+
+<!-- GitHub Readme Stats -->
+![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkumara289&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumara289&layout=compact&theme=github_dark)
+
+---
+
+## 🤝 Connect with Me
+
+📧 Email: **hemanthkumara289@gmail.com**
+
+💼 LinkedIn: *(Add your LinkedIn profile here once you create/update it.)*
+
+---
+
+> *"Learning by building one project at a time."*
