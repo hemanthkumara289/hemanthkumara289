@@ -60,20 +60,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<!-- GitHub Readme Stats -->
-![Hemanth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hemanthkumara289&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumara289&layout=compact&theme=github_dark)
-
----
-
 ## 🤝 Connect with Me
 
 📧 Email: **hemanthkumara289@gmail.com**
 
-💼 LinkedIn: *(Add your LinkedIn profile here once you create/update it.)*
+💼 LinkedIn: **(https://www.linkedin.com/in/hemanth-kumara-r-a2b1222b4?utm_source=share_via&utm_content=profile&utm_medium=member_android)**
 
 ---
 
